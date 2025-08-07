@@ -4,9 +4,6 @@ An interactive chat application for a virtual bookstore built with Streamlit and
 
 <p>
     <img width="300" src="extras/imagens/screenshot.png" alt="Virtual Bookstore Screenshot">
-    <br>
-    Virtual Bookstore - Interactive Chat Interface
-    <br>
 </p>
 
 ## 🚀 Features
