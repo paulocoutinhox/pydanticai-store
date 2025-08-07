@@ -1,0 +1,7 @@
+# Core dependencies
+pydantic-ai>=0.1.0
+streamlit>=1.28.0
+
+# Optional: For real email functionality
+# smtplib (built-in)
+# email (built-in)
